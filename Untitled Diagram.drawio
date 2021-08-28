@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T07:38:12.680Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" version="14.9.6" etag="BfLIxbJPIeRBIY9hUnob" type="github"><diagram id="oBLfWfItAIlaCFWW9sV4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-08-28T10:01:27.724Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36" etag="85GYzLAnHVmhDJalLHut" version="14.9.6" type="github">
+  <diagram id="oBLfWfItAIlaCFWW9sV4" name="Page-1">
+    <mxGraphModel dx="1024" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WE15DLmpdZAnWYS4Amxk-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;AbstractClassEnhancePluginDefine&lt;/font&gt;&lt;br&gt;define()" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="90" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WE15DLmpdZAnWYS4Amxk-2" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;ClassEnhancePluginDefine&lt;/span&gt;&lt;br&gt;&lt;span&gt;_$&lt;/span&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;EnhancedClassField_ws&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WE15DLmpdZAnWYS4Amxk-3" value="&lt;font style=&quot;font-size: 15px&quot;&gt;ClassInstanceMethodsEnhancePluginDefine&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="320" width="310" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
